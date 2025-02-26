@@ -1,5 +1,0 @@
-Stkcd [Stock Code] - Codes released by the Shanghai and Shenzhen Stock Exchanges
-Stknme_en [Stock Acronym] - Stock Short Name
-Listdt [Date Listed (Of Stock)] - Listing date of stock, denoted by YYYY-MM-DD; partly missing data denoted by 00 in the corresponding position, e.g. 1993-12-00 denotes a certain day in December 1993
-Estbdt [Establishment Date] - Denoted by YYYY-MM-DD; partly missing data denoted by 00 in the corresponding position, e.g. 1993-12-00 denotes a certain day in December 1993.
-Markettype [Market Type] - 1=SSE A share market (excluding STAR Market); 2= SSE B share market; 4= SZSE A share market (excluding ChiNext); 8= SZSE B share market; 16= ChiNext; 32= STAR Market., 64= BSE A share market
